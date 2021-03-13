@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SwitchbladeBot/runeterra.git"
+    "url": "git+https://github.com/rayitomcqueen/runeterraGGTech.git"
   },
   "keywords": [
     "legends-of-runeterra",
@@ -20,12 +20,12 @@
     "riot",
     "lol"
   ],
-  "author": "Switchblade Team",
+  "author": "Cristian González",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SwitchbladeBot/runeterra/issues"
+    "url": "https://github.com/rayitomcqueen/runeterraGGTech/issues"
   },
-  "homepage": "https://github.com/SwitchbladeBot/runeterra#readme",
+  "homepage": "https://github.com/rayitomcqueen/runeterraGGTech#readme",
   "devDependencies": {
     "mocha": "^6.2.1",
     "mocha-standard": "^1.0.0",
